@@ -1,9 +1,6 @@
 {
   "name": "gatsby-plugin-cname",
   "main": "index.js",
-  "files": [
-    "gatsby-*.js*"
-  ],
   "description": "Gatsby plugin that automatically creates CNAME file for your site",
   "version": "1.0.0",
   "homepage": "https://github.com/tiaanduplessis/gatsby-plugin-cname",
